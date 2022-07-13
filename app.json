@@ -1,5 +1,5 @@
 {
-  "name": "shadowsocks-ws",
+  "name": "chillpo",
   "repository": "https://github.com/totravel/shadowsocks-ws",
   "env": {
     "METHOD": {
